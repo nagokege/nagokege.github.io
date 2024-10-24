@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nagokege.github.io/sitemap/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/TcP/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/nDg/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/gus/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/ILq/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/Rew/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/GsJ/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/Pal/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/Fcx/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/pWD/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/tUx/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/jTQ/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/Isq/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/CIh/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/DZT/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/VEA/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/jeZ/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/uvY/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/NUW/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/feU/sitemap_index.nagokege
+Sitemap: https://nagokege.github.io/dTk/sitemap_index.nagokege
